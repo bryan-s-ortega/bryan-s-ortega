@@ -1,4 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/bryansteve99/)
+[![SubStack](https://img.shields.io/badge/-white?style=for-the-badge&logo=SubStack&logoColor=orange)](https://substack.com/@bryansteve)
 
 ### Hi there 👋
 
