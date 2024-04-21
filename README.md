@@ -1,4 +1,4 @@
-![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+[![LinkedIn](https://img.shields.io/badge/-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)(https://www.linkedin.com/in/bryansteve99/)]
 
 ### Hi there 👋
 
