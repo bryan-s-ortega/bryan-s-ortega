@@ -1,4 +1,6 @@
-[![LinkedIn](https://img.shields.io/badge/-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/bryansteve99/)
+<a href="https://www.linkedin.com/in/bryansteve99/">
+  <img src="https://content.linkedin.com/content/dam/platform/site/in/company/linkedin/logos/business-card-logo.png" alt="LinkedIn Profile">
+</a>
 [![SubStack](https://img.shields.io/badge/-white?style=for-the-badge&logo=SubStack&logoColor=orange)](https://substack.com/@bryansteve)
 
 ### Hi there :v: 
